@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+
+input {
+    background: grey;
+}
+
+.my_navbar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+input {
+    background: aqua;
+}
+
+.marqueestyle {
+width: 100%;
+color: cadetblue;
+}
+
+.announcment
+{
+    background-color: aquamarine;
+    width: 100%;
+    height: 30px;
+}
+#map iframe
+{
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
